@@ -2,9 +2,12 @@
   "name": "bolsonaro",
   "version": "0.0.0",
   "description": "taoquei",
-  "main": "index.js",
+  "main": "bin/index.js",
   "repository": "https://npmjs.com/package/bolsonaro",
   "author": "biroliro",
   "license": "WTFPL",
-  "private": false
+  "private": false,
+  "bin": {
+    "bolsonaro": "bin/index.js"
+  }
 }
