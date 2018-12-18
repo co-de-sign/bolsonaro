@@ -1,6 +1,6 @@
 {
   "name": "bolsonaro",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "taoquei",
   "main": "bin/index.js",
   "repository": "https://npmjs.com/package/bolsonaro",
